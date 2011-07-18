@@ -1,0 +1,23 @@
+#wpage{
+	padding: 5px;		
+}
+
+#wpage p.bithtitle{
+	
+	font:"Times New Roman",arial;
+	margin-left: 30px;
+}
+
+#wpage input{
+	background-color : #FFFFFF;
+}
+
+#month,#day{
+	width : 40px;
+}
+#year{
+	width:75px;
+}
+.formsubmit{
+	margin-left:100px;
+}
